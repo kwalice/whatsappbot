@@ -1,2 +1,2 @@
 # whatsappbot
- um simples bot do discord
+just a random bot i created for my server lol
