@@ -54,4 +54,4 @@ async def unlock(ctx, channel : discord.TextChannel=None):
 
 
 
-client.run('ODQwNzgxMTg5NDEyODE0ODc5.YJdMgA.9UQdJRHqpCqXKxOUUS2cYdQzcKE')
+client.run('your_token_here')
